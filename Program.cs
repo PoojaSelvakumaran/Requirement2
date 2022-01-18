@@ -21,6 +21,7 @@ namespace Requirement2
                     break;
                 }
             }
+// Comments
             foreach (char c in password)
             {
                 if (c >= 'A' && c <= 'Z')
